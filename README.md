@@ -54,7 +54,7 @@ Explanation: The Receiver Operating Characteristic (ROC) curve is a graphical re
 To run the code, ensure that the required Python libraries are installed. Then, execute the provided code in a Python environment that supports the required libraries.
 
 # Contributors
-•	Hari kriahna, Samohitha<br />
+•	Hari krishna, Samohitha<br />
 Feel free to customize and enhance the code as needed for your specific use case.
 
 
