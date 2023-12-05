@@ -2,7 +2,13 @@
 Welcome to the Heart Failure Prediction project! This project focuses on utilizing Artificial Neural Networks (ANN) to predict heart failure based on various health-related features. It serves as a valuable resource for students and researchers interested in exploring predictive modeling for healthcare applications.
 Here, provide a brief introduction to the project, explaining the motivation behind predicting heart failure, the significance of using ANN for this task, and the goals of the project.
 
-# Table of Contents
+## Table of Contents
+1. [Introduction](#Introduction)
+2. [Prerequisites](#Prerequisites)
+3. [Data Preparation] (#Data Preparation)
+4. [Model Evaluation](#Model Evaluation )
+5. [Running the Code](# Running the Code)
+6. [Contributors](#Contributors)
 
 # Introduction
 The introduction to the Heart Failure Prediction Using Artificial Neural Networks (ANN) project emphasizes the critical need for timely heart failure prediction, highlighting the potential of machine learning, specifically ANNs, in this domain. The project aims to achieve early detection, promote personalized medicine, advance research, and have a positive impact on public health.
