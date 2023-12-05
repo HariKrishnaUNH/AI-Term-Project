@@ -8,7 +8,7 @@ Here, provide a brief introduction to the project, explaining the motivation beh
 3. [Data Preparation](#Data-Preparation)
 4. [Model Evaluation](#Model-Evaluation )
 5. [Running the Code](#Running-the-Code)
-6. [References](# References)
+6. [References](#References)
 7. [Contributors](#Contributors)
 
 # Introduction
