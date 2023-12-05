@@ -9,12 +9,12 @@ The choice of ANNs is justified by their ability to discern intricate patterns a
 
 # Prerequisites
 The code requires the following Python libraries to be installed:
-•	numpy
-•	pandas
-•	matplotlib
-•	seaborn
-•	scikit-learn
-•	keras
+•	numpy<br />
+•	pandas<br />
+•	matplotlib<br />
+•	seaborn<br />
+•	scikit-learn<br />
+•	keras<br />
 
 # Data Preparation
 # 1. Loading the Raw Dataset:
@@ -46,7 +46,7 @@ Explanation: The Receiver Operating Characteristic (ROC) curve is a graphical re
 To run the code, ensure that the required Python libraries are installed. Then, execute the provided code in a Python environment that supports the required libraries.
 
 # Contributors
-•	Hari kriahna, Samohitha
+•	Hari kriahna, Samohitha<br />
 Feel free to customize and enhance the code as needed for your specific use case.
 
 
