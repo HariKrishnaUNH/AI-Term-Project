@@ -55,7 +55,7 @@ Explanation: The Receiver Operating Characteristic (ROC) curve is a graphical re
 To run the code, ensure that the required Python libraries are installed. Then, execute the provided code in a Python environment that supports the required libraries.
 # References
 Article <br/>
-https://www.researchgate.net/publication/364949647_Enhanced_accuracy_for_heart_disease_prediction_using_artificial_neural_network
+https://www.researchgate.net/publication/364949647_Enhanced_accuracy_for_heart_disease_prediction_using_artificial_neural_network <br/>
 Dataset<br/>
 https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
 # Contributors
