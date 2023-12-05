@@ -5,8 +5,8 @@ Here, provide a brief introduction to the project, explaining the motivation beh
 ## Table of Contents
 1. [Introduction](#Introduction)
 2. [Prerequisites](#Prerequisites)
-3. [Data Preparation](# Data-Preparation)
-4. [Model Evaluation](# Model-Evaluation )
+3. [Data Preparation](#Data-Preparation)
+4. [Model Evaluation](#Model-Evaluation )
 5. [Running the Code](#Running-the-Code)
 6. [Contributors](#Contributors)
 
