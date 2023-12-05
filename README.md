@@ -16,7 +16,7 @@ The introduction to the Heart Failure Prediction Using Artificial Neural Network
 The choice of ANNs is justified by their ability to discern intricate patterns and non-linear relationships within complex datasets, making them well-suited for predicting heart failure. The documentation will guide users through the project structure, usage of the ANN model, and encourage customization and contributions for the advancement of predictive healthcare analytics. Overall, the project represents a fusion of cutting-edge technology and healthcare innovation.
 
 # Prerequisites
-The code requires the following Python libraries to be installed:
+The code requires the following Python libraries to be installed:<br />
 •	numpy<br />
 •	pandas<br />
 •	matplotlib<br />
@@ -28,7 +28,7 @@ The code requires the following Python libraries to be installed:
 ### 1. Loading the Raw Dataset:
 you need to load the dataset into your Python environment. You can use a library like Pandas for this task
 ### 2. Exploratory Data Analysis (EDA):
-EDA is essential for gaining insights into the dataset. The describe() method provides statistics like mean, standard deviation, and quartiles for numerical features. Checking for missing values with isnull().sum() is crucial, as missing data can impact the model's performance. Visualizing feature distributions helps identify patterns and potential outliers.
+EDA is essential for gaining insights into the dataset. The **describe()** method provides statistics like mean, standard deviation, and quartiles for numerical features. Checking for missing values with **isnull().sum()** is crucial, as missing data can impact the model's performance. Visualizing feature distributions helps identify patterns and potential outliers.
 ### 3. Data Cleaning:
 Handling missing values is a critical aspect of data cleaning. In the example, missing values are imputed with the mean, but other strategies like median or dropping rows/columns might be suitable depending on the context. The removal of outliers using z-scores is demonstrated; however, the choice of outlier detection method should align with the characteristics of your dataset.
 ### 4. Feature Scaling:
