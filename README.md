@@ -8,7 +8,8 @@ Here, provide a brief introduction to the project, explaining the motivation beh
 3. [Data Preparation](#Data-Preparation)
 4. [Model Evaluation](#Model-Evaluation )
 5. [Running the Code](#Running-the-Code)
-6. [Contributors](#Contributors)
+6. [References](# References)
+7. [Contributors](#Contributors)
 
 # Introduction
 The introduction to the Heart Failure Prediction Using Artificial Neural Networks (ANN) project emphasizes the critical need for timely heart failure prediction, highlighting the potential of machine learning, specifically ANNs, in this domain. The project aims to achieve early detection, promote personalized medicine, advance research, and have a positive impact on public health.
@@ -52,7 +53,9 @@ Explanation: The Receiver Operating Characteristic (ROC) curve is a graphical re
 
 # Running the Code
 To run the code, ensure that the required Python libraries are installed. Then, execute the provided code in a Python environment that supports the required libraries.
-
+# References
+Article <br/>
+https://www.researchgate.net/publication/364949647_Enhanced_accuracy_for_heart_disease_prediction_using_artificial_neural_network
 # Contributors
 •	Hari krishna, Samohitha<br />
 Feel free to customize and enhance the code as needed for your specific use case.
