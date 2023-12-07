@@ -60,7 +60,7 @@ https://ieeexplore.ieee.org/document/9112443<br/>
 Dataset<br/>
 https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
 # Contributors
-•	Hari krishna, Samohitha<br />
+•	Harikrishna Para, Samohitha Chaganti<br />
 Feel free to customize and enhance the code as needed for your specific use case.
 
 
